@@ -1,0 +1,37 @@
+h1 {
+  color: white;
+  background-color: black;
+  text-align: center;
+  font-size: 200px;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+p{
+  color: white;
+  font-size: 20px;
+}
+/*.photo2 {
+    width: 50%;*/
+}
+.body {
+    width: 900px;
+    height: 700px;
+}
+body {
+    Background: black;
+    text-align:center;
+    padding: 10px;
+  }
+.photo2 {
+   width: 500px;
+   height: 400px;
+ }
+h2 {color: white;
+    font-size: 10
+  }
+nav {
+    font-size: 50px;
+  }
+  li a {
+      color: white
+  }

@@ -1,0 +1,62 @@
+nav {
+  color: red;
+}
+h1 {
+  color: rgb(255,230,222);
+  background: url(wood_header.jpg);
+  font-family: 'Rationale', sans-serif;
+  text-align: center;
+  font-size: 50px;
+  padding: 40px;
+  border-radius: 5px;
+  text-shadow: 2px 2px 5px;
+  box-shadow: 0px 0px 30px grey;
+}
+h2 {
+  color: white;
+  font-family: arial;
+}
+img {
+  display: grid;
+  padding: 0px;
+  border-radius: 50px;
+  background: black;
+  display: block;
+  margin: auto;
+  width: 60%;
+}
+body {
+  background: url(background.jpg);
+  text-align: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  color: white;
+}
+ul {
+  display:
+  text-align: center;
+  float: inherit;
+  font-size: 25px;
+}
+li {
+  display: inline-block;
+  text-align: center;
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: rgb(61,105,103)
+  background-radius: 25px;
+  border: 1px black;
+  text-decoration: none;
+}
+li a {
+  color: grey;
+  border: solid 2px;
+  border-radius: 10px;
+  text-decoration: none;
+  padding: 3px;
+  background-color: black;
+  font-family: Arial;
+
+
+
+}
